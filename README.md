@@ -1,4 +1,4 @@
-##### I written code within two days for Screening Test conduct by TrustingSocial, and also i included some functional testing.
+##### I written code within two days for Screening Test(Hackthan) conduct by TrustingSocial.
 
 Problem statement
 =================
